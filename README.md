@@ -6,6 +6,7 @@ The Hotel Reservation System is a Java-based application developed to efficientl
 
 This project demonstrates the practical use of Core Java concepts, JDBC, and MySQL database integration to perform real-time data storage and retrieval. It is designed as a console-based application, making it lightweight, easy to use, and suitable for small to medium-scale hotel management scenarios.
 
+
 ## 🌟 Features
 
 ### 🛏️ Room Reservation
@@ -22,6 +23,7 @@ Provides the ability to remove reservations that are cancelled or no longer requ
 
 ### 💾 Persistent Data Storage
 Uses MySQL to store reservation details permanently through JDBC connectivity.
+
 
 ## Technologies Used 🛠️
 
