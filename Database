@@ -1,6 +1,5 @@
 
-CREATE DATABASE hotel_reservation;
-
+CREATE DATABASE hoteldb;
 CREATE TABLE reservations (
     id INT AUTO_INCREMENT PRIMARY KEY,
     guest_name VARCHAR(100),
